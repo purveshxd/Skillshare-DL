@@ -1,5 +1,5 @@
 import json, sys, re, os
-import requests
+# import requests
 import cloudscraper
 from slugify import slugify
 
