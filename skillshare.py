@@ -1,4 +1,5 @@
-import requests, json, sys, re, os
+import json, sys, re, os
+import requests
 import cloudscraper
 from slugify import slugify
 
